@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="digital_marketing">Marolix  is one of the best enterprise Digital Marketing development company in IndiaOur expertise lies in building</string>
+    <string name="mobile_application">Marolix  is one of the best enterprise mobile application development company in IndiaOur expertise lies in building  Android and iOS applications</string>
+    <string name="web_designing">If you need a professional mobile-ready website our personalized website building service can get you up and running in no time at all</string>
+    <string name="about">Following the latest web development trends and applying the best practices in Internet marketing we implement the most challenging ideas to deliver you quality results. Verified by the detailed market analysis and supported by the professionalism and reliability of our specialists, you get top-notch solutions to promote your business. Marolix has gathered vast knowledge base through continuous innovation and learning. We have successfully delivered numerous projects in the areas of application development website designing and development 3d Printing and e-commerce solutions. We are accustomed to an urge to inconsistently explore more challenging projects. With over 10 years of expertise to fall back upon we have emerged as a leading web development and Digital Marketing Company in Hyderabad</string>
+    <string name="payment">our marketing automation experts will help you develop your income and convert more leads, all while saving you time, cash and heartache.</string>
+    <string name="website">our absolutely managed carrier consists of the creation of two e-mail campaigns in step with month, all professionally designed and written for you.</string>
+    <string name="ecommerce">we’ll weed out your old and tired electronic mail addresses and make certain your listing is squeaky easy and prepared to attain deliverability factors.</string>
+</resources>
